@@ -4,10 +4,9 @@ Generating meaningful inferences from crash data is vital to improving highway s
 
 # Skills Utilized:
 
-    SQL
+    SQL, DATA management of csv files in excess of 10GB.
     Web-scraping
     shapely, folium and geopandas
-    DATA over 10GB in size
     PCA
     XGBoost
     SHapley Additive exPlanations
