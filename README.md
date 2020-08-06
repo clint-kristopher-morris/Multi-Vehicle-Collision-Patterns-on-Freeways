@@ -10,3 +10,5 @@ Generating meaningful inferences from crash data is vital to improving highway s
     PCA
     XGBoost
     SHapley Additive exPlanations
+
+### [Link to Journal Publication](https://doi.org/10.3390/infrastructures5080062)
